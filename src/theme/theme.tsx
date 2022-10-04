@@ -24,12 +24,12 @@ const theme = extendTheme({
   styles: {
     global: {
       body: {
-        bg: "hsl(210, 60%, 98%)",
+        bg: "#f9fafe",
         fontWeight: 500,
         fontSize: "16px",
         width: "100%",
         display: "flex",
-        pt: { base: 0, md: "14" },
+        pt: { base: 0, md: "50px" },
         justifyContent: "center",
       },
     },
