@@ -29,7 +29,7 @@ const theme = extendTheme({
         fontSize: "16px",
         width: "100%",
         display: "flex",
-        pt: { base: 0, md: "50px" },
+        pt: { base: 0, md: "65px" },
         justifyContent: "center",
       },
     },
