@@ -9,7 +9,7 @@ function App() {
         <NotificationHeader />
 
         <Notification
-          avatar={"images/avatar-mark-webber.webp"}
+          avatar={"./images/avatar-mark-webber.webp"}
           profileName={"Mark Webber"}
           notificationType={"reacted to your recent post"}
           postTitle={"My first tournament today!"}

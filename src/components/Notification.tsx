@@ -35,7 +35,8 @@ function Notification({
     <Flex
       gap={4}
       bg={unread ? "neutral.background" : ""}
-      p="5"
+      px="5"
+      py="4"
       borderRadius="lg"
       alignItems="start"
       mb="2"
@@ -97,7 +98,7 @@ function Notification({
             shadow="sm"
             px="5"
             py="3"
-            mt="4"
+            mt="2"
             _hover={{ bg: "neutral.LightGrayishBlue1", cursor: "pointer" }}
           >
             {msgContent}
