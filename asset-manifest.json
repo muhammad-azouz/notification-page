@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/notification-page/static/css/main.1f268bf0.css",
+    "main.js": "/notification-page/static/js/main.68ef5ddb.js",
+    "static/media/plus-jakarta-sans-all-500-normal.woff": "/notification-page/static/media/plus-jakarta-sans-all-500-normal.d03e9e85dbe90fb4560a.woff",
+    "static/media/plus-jakarta-sans-all-800-normal.woff": "/notification-page/static/media/plus-jakarta-sans-all-800-normal.6c988b89bdd6815a8911.woff",
+    "static/media/plus-jakarta-sans-latin-500-normal.woff2": "/notification-page/static/media/plus-jakarta-sans-latin-500-normal.fd273142240589f26d44.woff2",
+    "static/media/plus-jakarta-sans-latin-800-normal.woff2": "/notification-page/static/media/plus-jakarta-sans-latin-800-normal.bf9c9187822b764b1c9d.woff2",
+    "static/media/plus-jakarta-sans-latin-ext-500-normal.woff2": "/notification-page/static/media/plus-jakarta-sans-latin-ext-500-normal.7a07cdccc8c32378d1a3.woff2",
+    "static/media/plus-jakarta-sans-latin-ext-800-normal.woff2": "/notification-page/static/media/plus-jakarta-sans-latin-ext-800-normal.f7e38aa603baa2ae4f35.woff2",
+    "static/media/plus-jakarta-sans-vietnamese-500-normal.woff2": "/notification-page/static/media/plus-jakarta-sans-vietnamese-500-normal.17bb7f95460590c28a9b.woff2",
+    "static/media/plus-jakarta-sans-vietnamese-800-normal.woff2": "/notification-page/static/media/plus-jakarta-sans-vietnamese-800-normal.1359457237ce511ad48c.woff2",
+    "static/media/plus-jakarta-sans-cyrillic-ext-500-normal.woff2": "/notification-page/static/media/plus-jakarta-sans-cyrillic-ext-500-normal.add7d0acbfe3e64c0d38.woff2",
+    "static/media/plus-jakarta-sans-cyrillic-ext-800-normal.woff2": "/notification-page/static/media/plus-jakarta-sans-cyrillic-ext-800-normal.3e3fa6b7ba128e2744ec.woff2",
+    "index.html": "/notification-page/index.html",
+    "main.1f268bf0.css.map": "/notification-page/static/css/main.1f268bf0.css.map",
+    "main.68ef5ddb.js.map": "/notification-page/static/js/main.68ef5ddb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f268bf0.css",
+    "static/js/main.68ef5ddb.js"
+  ]
+}
